@@ -22,7 +22,7 @@ public class prob22 {
 						output += indsA[i] + " A "; 
 					}
 				}
-				System.out.println(output.trim());
+				System.out.println(output);
 			}
 			else {
 				int next = (Integer.parseInt(line[0]) + 1) % 13;
