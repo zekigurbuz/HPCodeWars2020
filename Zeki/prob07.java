@@ -37,7 +37,7 @@ public class prob07 {
 		}
 	}
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob07-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			String color1 = file.next(), color2 = file.next();
 			if (color1.equals("BLACK")) {
