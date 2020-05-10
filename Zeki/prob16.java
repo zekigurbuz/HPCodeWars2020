@@ -23,7 +23,7 @@ public class prob16 {
 		}
 	}
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob16-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			double a = file.nextDouble(), b = file.nextDouble();
 			String op = file.next();
