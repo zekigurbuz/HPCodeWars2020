@@ -37,8 +37,8 @@ public class prob13 {
 				System.out.printf("I can't afford %s%n", items[i].name);
 			}
 		}
-		System.out.println(yenTotal);
 		if (!any) System.out.println("I need more Yen!");
+		System.out.println(yenTotal);
 		file.close();
 	}
 }
