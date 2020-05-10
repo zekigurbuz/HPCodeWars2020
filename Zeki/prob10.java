@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class prob10 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob10-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		Queue<String> nouns = new LinkedList<>(), adverbs = new LinkedList<>(), verbs = new LinkedList<>(), adjectives = new LinkedList<>();
 		String[] sentence = file.nextLine().split(" ");
 		file.nextLine();
