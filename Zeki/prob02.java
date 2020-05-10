@@ -8,7 +8,7 @@ public class prob02 {
 		return s;
 	}
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob02-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		String number = file.nextLine();
 		number = reverse(number);
 		System.out.println(number);
