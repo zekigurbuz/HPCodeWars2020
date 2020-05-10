@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class prob20 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob20-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		LinkedHashMap<String, int[]> rtop = new LinkedHashMap<>();
 		rtop.put("Pepperoni", new int[] {0});
 		rtop.put("Red Peppers", new int[] {1});
