@@ -71,7 +71,7 @@ public class prob10 {
 					out += x + " ";
 				}
 			}
-			System.out.println(out);
+			System.out.println(out.trim());
 		}
 		file.close();
 	}
