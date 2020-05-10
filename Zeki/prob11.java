@@ -17,7 +17,7 @@ public class prob11 {
 		return true;
 	}
 	public static void main(String[] args) throws FileNotFoundException {
-		Scanner file = new Scanner(new File("prob11-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			int number = file.nextInt();
 			String works = isCyclops(number) ? "yes" : "no";
