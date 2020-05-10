@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class prob18 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob18-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			double[] hm = Arrays.stream(file.nextLine().split(":")).mapToDouble(Double::parseDouble).toArray();
 			double h = hm[0], m = hm[1];
