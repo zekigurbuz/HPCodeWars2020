@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class prob08 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob08-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			String[] line = file.nextLine().split(" ");
 			String buffer = "";
