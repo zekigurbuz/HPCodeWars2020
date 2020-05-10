@@ -6,7 +6,7 @@ public class prob21 {
 		return 60 * Integer.parseInt(s.substring(0, 2)) + Integer.parseInt(s.substring(2));
 	}
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob21-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			file.next();
 			String empName = file.nextLine().trim();
