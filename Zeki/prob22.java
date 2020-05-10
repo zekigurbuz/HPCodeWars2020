@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class prob22 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob22-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		char[] aString = "ABCDEFGA".toCharArray();
 		int[] indsA = {0, 2, 3, 5, 7, 8, 10, 12};
 		char[] eString = "EFGABCDE".toCharArray();
