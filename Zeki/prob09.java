@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class prob09 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob09-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		int total = 2 * 25 * 60;
 		while (true) {
 			int minutes = file.nextInt(), seconds = file.nextInt();
