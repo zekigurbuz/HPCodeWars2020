@@ -45,7 +45,7 @@ public class prob17 {
 		}
 	}
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob17-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		int n = Integer.parseInt(file.nextLine().trim());
 		String[] cities = new String[n];
 		for (int i = 0; i < n; i++) cities[i] = file.nextLine();
