@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class prob12 {
 	public static void main(String[] args) throws FileNotFoundException {
-		Scanner file = new Scanner(new File("prob12-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			double[] vals = Arrays.stream(file.nextLine().split(" ")).mapToDouble(Double::parseDouble).toArray();
 			double inches = vals[0] * 3 * 12;
