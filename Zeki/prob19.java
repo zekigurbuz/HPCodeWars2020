@@ -7,9 +7,8 @@ public class prob19 {
 		String s = file.nextLine().replaceAll("[^A-Za-z]+", "");
 		String hex = "", hex_output = "";
 		for (int i = 0; i < s.length(); i++) {
-			if (i > 0) hex_output += " ";
 			String t = Integer.toString(s.charAt(i), 16);
-			hex += t; hex_output += t;
+			hex += t; hex_output += t + " ";
 		}
 		System.out.println(hex_output);
 		String compress = "";
