@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class prob19 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob19-5-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		String s = file.nextLine().replaceAll("[^A-Za-z]+", "");
 		String hex = "", hex_output = "";
 		for (int i = 0; i < s.length(); i++) {
