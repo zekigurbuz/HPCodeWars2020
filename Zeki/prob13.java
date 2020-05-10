@@ -1,49 +1,44 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class prob13 {
+	public static class Item implements Comparable<Item> {
+		public String name;
+		public long cost;
+		public Item(String name, long cost) {
+			this.name = name;
+			this.cost = cost;
+		}
+		public int compareTo(Item o) {
+			int x = Long.compare(cost, o.cost);
+			if (x == 0) return name.compareTo(o.name);
+			return x;
+		}
+	}
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner file = new Scanner(new File("input.txt"));
-		String[] line = file.nextLine().split(" ");
-		long yenTotal = Long.parseLong(line[0]);
-		int n = Integer.parseInt(line[1]);
-		String[] names = new String[n];
-		long[] price = new long[n];
+		long yenTotal = file.nextLong();
+		int n = Integer.parseInt(file.nextLine().trim());
+		Item[] items = new Item[n];
 		for (int i = 0; i < n; i++) {
-			line = file.nextLine().split(" ");
-			String name = "";
-			for (int j = 0; j < line.length - 1; j++) {
-				if (j > 0) name += " ";
-				name += line[j];
-			}
-			names[i] = name;
-			price[i] = Long.parseLong(line[line.length - 1]);
+			items[i] = new Item(file.next(), Long.parseLong(file.nextLine().trim()));
 		}
-		int bestMask = 0;
-		for (int mask = 0; mask < (1 << n); mask++) {
-			long totalCost = 0;
-			for (int i = 1, j = 0; i < (1 << n); i <<= 1, j++) {
-				if ((mask & i) > 0) totalCost += price[j];
+		Arrays.sort(items);
+		boolean any = false;
+		for (int i = 0; i < n; i++) {
+			if (items[i].cost <= yenTotal) {
+				yenTotal -= items[i].cost;
+				System.out.printf("I can afford %s%n", items[i].name);
+				any = true;
 			}
-			if (totalCost > yenTotal) continue;
-			if (Integer.bitCount(mask) > Integer.bitCount(bestMask)) {
-				bestMask = mask;
+			else {
+				System.out.printf("I can't afford %s%n", items[i].name);
 			}
 		}
-		long yenLeft = yenTotal;
-		for (int i = 0, j = 1; i < n; i++, j <<= 1) {
-			boolean afford = false;
-			if ((bestMask & j) > 0) {
-				afford = true;
-				yenLeft -= price[i];
-			}
-			System.out.printf("I %s afford %s%n", afford ? "can" : "can't", names[i]);
-		}
-		if (bestMask == 0) {
-			System.out.println("I need more Yen!");
-		}
-		System.out.println(yenLeft);
+		System.out.println(yenTotal);
+		if (!any) System.out.println("I need more Yen!");
 		file.close();
 	}
 }
