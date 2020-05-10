@@ -3,7 +3,7 @@ import java.io.*;
 
 public class prob10 {
 	public void run() throws Exception {
-		Scanner file = new Scanner(new File("prob10-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		Queue<String> n = new LinkedList<>();
 		Queue<String> v = new LinkedList<>();
 		Queue<String> aj = new LinkedList<>();
