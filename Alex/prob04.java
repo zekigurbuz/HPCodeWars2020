@@ -3,7 +3,7 @@ import java.io.*;
 
 public class prob04 {
 	public void run() throws Exception {
-		Scanner file = new Scanner(new File("prob04-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		long a = file.nextLong(); long b = file.nextLong();
 		System.out.println(a * b / gcd(a, b));
 		file.close();
