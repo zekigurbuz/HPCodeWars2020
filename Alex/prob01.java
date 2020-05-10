@@ -4,7 +4,7 @@ import java.io.*;
 public class prob01 {
 	public void run() throws Exception {
 		Scanner file = new Scanner(new File("input.txt".toLowerCase()));
-		System.out.println("Welcome to CodeWars, " + file.nextLine());
+		System.out.println("Welcome to CodeWars, " + file.nextLine() + "!");
 		file.close();
 	}
 
