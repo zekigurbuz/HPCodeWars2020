@@ -35,7 +35,7 @@ public class prob23 {
 		flipper.put('n', 'u');
 		flipper.put('u', 'n');
 		flipper.put(' ', ' ');
-		Scanner file = new Scanner(new File("prob23-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		int n = Integer.parseInt(file.nextLine());
 		while (n-->0) {
 			String s = file.nextLine().replaceAll("[^A-Za-z ]+", "").toLowerCase();
