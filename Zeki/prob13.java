@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class prob13 {
 	public static void main(String[] args) throws FileNotFoundException {
-		Scanner file = new Scanner(new File("prob13-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		String[] line = file.nextLine().split(" ");
 		long yenTotal = Long.parseLong(line[0]);
 		int n = Integer.parseInt(line[1]);
