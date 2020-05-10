@@ -14,7 +14,7 @@ public class prob14 {
 		return s1 == s2;
 	}
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob14-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		int n1 = file.nextInt(), n2 = file.nextInt();
 		int count = 0;
 		for (int i = n1; i < n2; i++) {
