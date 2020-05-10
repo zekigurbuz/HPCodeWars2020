@@ -6,7 +6,7 @@ public class prob05 {
 	public void run() throws Exception {
 		Scanner file = new Scanner(new File("input.txt"));
 		String x = file.nextLine();
-		System.out.println(new BigInteger(x).isProbablePrime(32) ? x + " is PRIME" : x + " is NOT prime");
+		System.out.println(new BigInteger(x).isProbablePrime(32) ? x + " is PRIME" : x + " is NOT Prime");
 		file.close();
 	}
 
