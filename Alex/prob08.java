@@ -12,11 +12,11 @@ public class prob08 {
 					out += x[i] + " ";
 				}
 				else {
-					System.out.println(out);
+					System.out.println(out.trim());
 					out = x[i] + " ";
 				}
 			}
-			if (!(out.equals(""))) System.out.println(out);
+			if (!(out.equals(""))) System.out.println(out.trim());
 		}
 		file.close();
 	}
