@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class prob15 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob15-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (true) {
 			String[] l1 = file.nextLine().split(" ");
 			int n = Integer.parseInt(l1[0]), m = Integer.parseInt(l1[1]);
