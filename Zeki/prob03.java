@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class prob03 {
 	public static void main(String[] args) throws Exception {
-		Scanner file = new Scanner(new File("prob03-1-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		long X = file.nextLong(), Y = file.nextLong(), largest_div = 1L;
 		for (long divisor = 2L; divisor * divisor <= Math.min(X, Y); ++divisor) {
 			if (X % divisor == 0L && Y % divisor == 0L) {
