@@ -1,0 +1,10 @@
+School Name - Cypress Woods High School
+
+Team Name - Is it rated?
+
+Team Members:
+  1. Alex Huang
+  2. Zeki Gurbuz
+  3. Steven Cheng
+  
+  Language - Java
