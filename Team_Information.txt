@@ -1,5 +1,9 @@
 School Name - Cypress Woods High School
 
+Division - Advanced
+
+Region - Texas (TX)
+
 Team Name - Is it rated?
 
 Team Members:
