@@ -3,7 +3,7 @@ import java.io.*;
 
 public class prob12 {
 	public void run() throws Exception {
-		Scanner file = new Scanner(new File("prob12-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		while (file.hasNext()) {
 			String[] a = file.nextLine().split(" ");
 			double sum = 0.0;
