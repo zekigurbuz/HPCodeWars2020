@@ -3,7 +3,7 @@ import java.io.*;
 
 public class prob03 {
 	public void run() throws Exception {
-		Scanner file = new Scanner(new File("prob03-2-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		System.out.println(gcd(file.nextLong(), file.nextLong()));
 		file.close();
 	}
