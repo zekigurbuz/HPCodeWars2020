@@ -22,16 +22,16 @@ public class prob13 {
 		}
 		Collections.sort(l);
 		int i = 0;
+		boolean a = false;
 		while (i < l.size() && p - l.get(i).cost >= 0) {
 			System.out.println("I can afford " + l.get(i).name);
 			p -= l.get(i++).cost;
-		}
-		boolean a = false;
-		while (i < l.size()) {
 			a = true;
+		}
+		while (i < l.size()) {
 			System.out.println("I can't afford " + l.get(i++).name);
 		}
-		if (a) System.out.println("I need more Yen!");
+		if (!a) System.out.println("I need more Yen!");
 		System.out.println(p);
 		file.close();
 	}
