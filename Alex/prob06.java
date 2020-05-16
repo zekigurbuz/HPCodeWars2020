@@ -4,7 +4,7 @@ import java.io.*;
 public class prob06 {
 	TreeMap<Integer, String> map;
 	public void run() throws Exception {
-		Scanner file = new Scanner(new File("prob06-3-in.txt"));
+		Scanner file = new Scanner(new File("input.txt"));
 		map = new TreeMap<>();
 		map.put(1000, "R");
         map.put(900, "BR");
