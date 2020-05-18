@@ -191,6 +191,7 @@ elif len(sys.argv) >= 2 and sys.argv[1] == 'stresstest':
 						print('%8s:' % name, out)
 			else:
 				print('Test Case', tc, 'OK')
+			tc += 1
 		if all_good:
 			print('Accepted')
 
