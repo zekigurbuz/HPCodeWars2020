@@ -36,7 +36,7 @@ public class prob29 {
 			if(s.startsWith("FUNC")) {
 				shouldIndent = true;
 				String name = s.substring(s.indexOf(' ')+1, s.indexOf('('));
-				if(!prev.startsWith("# " + name)) _4.add(line);
+				if(!prev.contains("# " + name)) _4.add(line);
 			}
 			prev = orig.trim();
 			line++;

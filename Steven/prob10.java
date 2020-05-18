@@ -36,36 +36,36 @@ public class prob10 {
 		Scanner s = new Scanner(orig);
 		{
 			String ss = s.next();
-			if(ss.equals("[N]")) System.out.print(n.pollFirst());
-			else if(ss.equals("[AV]")) System.out.print(av.pollFirst());
-			else if(ss.equals("[V]")) System.out.print(v.pollFirst());
-			else if(ss.equals("[AJ]")) System.out.print(aj.pollFirst());
+			if(ss.contains("[N]")) System.out.print(ss.replace("[N]",n.pollFirst()));
+			else if(ss.contains("[AV]")) System.out.print(ss.replace("[AV]",av.pollFirst()));
+			else if(ss.contains("[V]")) System.out.print(ss.replace("[V]",v.pollFirst()));
+			else if(ss.contains("[AJ]")) System.out.print(ss.replace("[AJ]",aj.pollFirst()));
 			else System.out.print(ss);
 		}
 		while(s.hasNext()) {
 			String ss = s.next();
-			if(ss.equals("[N]")) System.out.print(" " + n.pollFirst());
-			else if(ss.equals("[AV]")) System.out.print(" " + av.pollFirst());
-			else if(ss.equals("[V]")) System.out.print(" " + v.pollFirst());
-			else if(ss.equals("[AJ]")) System.out.print(" " + aj.pollFirst());
+			if(ss.contains("[N]")) System.out.print(" "+ss.replace("[N]",n.pollFirst()));
+			else if(ss.contains("[AV]")) System.out.print(" "+ss.replace("[AV]",av.pollFirst()));
+			else if(ss.contains("[V]")) System.out.print(" "+ss.replace("[V]",v.pollFirst()));
+			else if(ss.contains("[AJ]")) System.out.print(" "+ss.replace("[AJ]",aj.pollFirst()));
 			else System.out.print(" " + ss);
 		}
 		System.out.println();
 		s = new Scanner(orig);
 		{
 			String ss = s.next();
-			if(ss.equals("[N]")) System.out.print(n.pollFirst());
-			else if(ss.equals("[AV]")) System.out.print(av.pollFirst());
-			else if(ss.equals("[V]")) System.out.print(v.pollFirst());
-			else if(ss.equals("[AJ]")) System.out.print(aj.pollFirst());
+			if(ss.contains("[N]")) System.out.print(ss.replace("[N]",n.pollFirst()));
+			else if(ss.contains("[AV]")) System.out.print(ss.replace("[AV]",av.pollFirst()));
+			else if(ss.contains("[V]")) System.out.print(ss.replace("[V]",v.pollFirst()));
+			else if(ss.contains("[AJ]")) System.out.print(ss.replace("[AJ]",aj.pollFirst()));
 			else System.out.print(ss);
 		}
 		while(s.hasNext()) {
 			String ss = s.next();
-			if(ss.equals("[N]")) System.out.print(" " + n.pollFirst());
-			else if(ss.equals("[AV]")) System.out.print(" " + av.pollFirst());
-			else if(ss.equals("[V]")) System.out.print(" " + v.pollFirst());
-			else if(ss.equals("[AJ]")) System.out.print(" " + aj.pollFirst());
+			if(ss.contains("[N]")) System.out.print(" "+ss.replace("[N]",n.pollFirst()));
+			else if(ss.contains("[AV]")) System.out.print(" "+ss.replace("[AV]",av.pollFirst()));
+			else if(ss.contains("[V]")) System.out.print(" "+ss.replace("[V]",v.pollFirst()));
+			else if(ss.contains("[AJ]")) System.out.print(" "+ss.replace("[AJ]",aj.pollFirst()));
 			else System.out.print(" " + ss);
 		}
 		System.out.println();
