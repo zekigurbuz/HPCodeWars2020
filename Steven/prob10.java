@@ -40,7 +40,7 @@ public class prob10 {
 			while(ss.contains("[AV]")) ss = ss.replaceFirst("\\[AV\\]",av.pollFirst());
 			while(ss.contains("[V]")) ss = ss.replaceFirst("\\[V\\]",v.pollFirst());
 			while(ss.contains("[AJ]")) ss = ss.replaceFirst("\\[AJ\\]",aj.pollFirst());
-			System.out.println(ss);
+			System.out.print(ss);
 		}
 		while(s.hasNext()) {
 			String ss = s.next();
@@ -48,7 +48,7 @@ public class prob10 {
 			while(ss.contains("[AV]")) ss = ss.replaceFirst("\\[AV\\]",av.pollFirst());
 			while(ss.contains("[V]")) ss = ss.replaceFirst("\\[V\\]",v.pollFirst());
 			while(ss.contains("[AJ]")) ss = ss.replaceFirst("\\[AJ\\]",aj.pollFirst());
-			System.out.println(" " + ss);
+			System.out.print(" " + ss);
 		}
 		System.out.println();
 		s = new Scanner(orig);
@@ -58,7 +58,7 @@ public class prob10 {
 			while(ss.contains("[AV]")) ss = ss.replaceFirst("\\[AV\\]",av.pollFirst());
 			while(ss.contains("[V]")) ss = ss.replaceFirst("\\[V\\]",v.pollFirst());
 			while(ss.contains("[AJ]")) ss = ss.replaceFirst("\\[AJ\\]",aj.pollFirst());
-			System.out.println(ss);
+			System.out.print(ss);
 		}
 		while(s.hasNext()) {
 			String ss = s.next();
@@ -66,7 +66,7 @@ public class prob10 {
 			while(ss.contains("[AV]")) ss = ss.replaceFirst("\\[AV\\]",av.pollFirst());
 			while(ss.contains("[V]")) ss = ss.replaceFirst("\\[V\\]",v.pollFirst());
 			while(ss.contains("[AJ]")) ss = ss.replaceFirst("\\[AJ\\]",aj.pollFirst());
-			System.out.println(" " + ss);
+			System.out.print(" " + ss);
 		}
 		System.out.println();
 	}
