@@ -1,0 +1,13 @@
+10
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+City F is connected to City G by road
+City G is connected to City I by road

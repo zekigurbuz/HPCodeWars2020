@@ -1,0 +1,34 @@
+22
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+City A is connected to City J by train
+City J is connected to City U by train
+City G is connected to City F by air
+City K is connected to City I by air
+City U is connected to City D by air
+City I is connected to City R by air
+City N is connected to City U by air
+City V is connected to City R by air
+City V is connected to City C by air
+City J is connected to City D by train
+City J is connected to City E by train

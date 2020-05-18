@@ -1,0 +1,13 @@
+11
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+City G is connected to City B by train

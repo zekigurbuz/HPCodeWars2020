@@ -1,0 +1,213 @@
+25
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+City Y is connected to City P by train
+City S is connected to City P by air
+City L is connected to City W by road
+City K is connected to City G by train
+City P is connected to City T by train
+City R is connected to City V by road
+City W is connected to City A by road
+City Q is connected to City M by air
+City U is connected to City G by air
+City M is connected to City Q by air
+City A is connected to City C by road
+City I is connected to City Q by train
+City A is connected to City Y by road
+City S is connected to City D by road
+City P is connected to City F by road
+City X is connected to City J by road
+City N is connected to City I by road
+City E is connected to City B by air
+City O is connected to City W by road
+City H is connected to City R by train
+City Q is connected to City P by train
+City R is connected to City C by train
+City N is connected to City U by train
+City D is connected to City Q by road
+City J is connected to City B by air
+City N is connected to City G by air
+City L is connected to City Q by road
+City C is connected to City G by road
+City B is connected to City X by road
+City H is connected to City J by road
+City I is connected to City V by road
+City O is connected to City M by air
+City W is connected to City M by train
+City P is connected to City V by air
+City N is connected to City N by road
+City Y is connected to City E by air
+City B is connected to City D by road
+City L is connected to City U by air
+City E is connected to City S by air
+City L is connected to City X by air
+City D is connected to City J by air
+City L is connected to City W by road
+City N is connected to City Q by air
+City J is connected to City G by train
+City S is connected to City P by road
+City G is connected to City L by road
+City E is connected to City W by road
+City A is connected to City F by road
+City F is connected to City R by train
+City J is connected to City C by train
+City P is connected to City X by train
+City M is connected to City B by air
+City G is connected to City X by air
+City J is connected to City Q by train
+City L is connected to City C by train
+City V is connected to City Y by train
+City P is connected to City M by road
+City C is connected to City E by air
+City H is connected to City O by air
+City B is connected to City R by air
+City W is connected to City X by train
+City V is connected to City M by train
+City E is connected to City S by road
+City X is connected to City H by train
+City N is connected to City B by train
+City U is connected to City N by train
+City H is connected to City M by air
+City K is connected to City F by road
+City H is connected to City X by air
+City H is connected to City X by air
+City V is connected to City A by road
+City N is connected to City E by road
+City O is connected to City Q by air
+City G is connected to City C by air
+City H is connected to City L by air
+City K is connected to City V by air
+City O is connected to City S by air
+City O is connected to City X by road
+City U is connected to City F by road
+City G is connected to City G by air
+City X is connected to City F by train
+City W is connected to City V by road
+City C is connected to City C by air
+City M is connected to City B by air
+City Q is connected to City I by air
+City U is connected to City M by air
+City V is connected to City E by air
+City S is connected to City R by road
+City N is connected to City E by air
+City F is connected to City G by train
+City B is connected to City B by road
+City B is connected to City F by road
+City L is connected to City B by train
+City A is connected to City P by train
+City V is connected to City D by train
+City U is connected to City R by road
+City G is connected to City P by road
+City R is connected to City Y by road
+City T is connected to City V by road
+City R is connected to City C by road
+City Q is connected to City U by train
+City J is connected to City U by air
+City K is connected to City Y by air
+City G is connected to City T by air
+City R is connected to City Y by train
+City Q is connected to City D by train
+City E is connected to City F by train
+City K is connected to City V by train
+City L is connected to City R by train
+City Y is connected to City R by train
+City B is connected to City P by train
+City G is connected to City C by train
+City I is connected to City C by air
+City L is connected to City Q by train
+City V is connected to City G by air
+City U is connected to City S by air
+City U is connected to City R by train
+City S is connected to City R by road
+City K is connected to City U by train
+City F is connected to City E by road
+City H is connected to City N by road
+City F is connected to City U by air
+City T is connected to City E by road
+City U is connected to City H by road
+City J is connected to City C by air
+City M is connected to City H by road
+City P is connected to City Q by air
+City U is connected to City E by road
+City O is connected to City H by air
+City R is connected to City B by train
+City E is connected to City O by train
+City H is connected to City P by train
+City G is connected to City B by train
+City N is connected to City P by air
+City M is connected to City W by road
+City D is connected to City A by train
+City S is connected to City I by air
+City N is connected to City I by air
+City H is connected to City K by train
+City I is connected to City C by train
+City G is connected to City N by air
+City M is connected to City Y by air
+City P is connected to City G by air
+City J is connected to City N by road
+City N is connected to City R by air
+City V is connected to City T by road
+City T is connected to City Q by road
+City R is connected to City X by road
+City V is connected to City D by air
+City C is connected to City K by air
+City K is connected to City T by road
+City K is connected to City L by road
+City O is connected to City S by air
+City O is connected to City D by road
+City D is connected to City C by road
+City J is connected to City E by road
+City X is connected to City U by train
+City P is connected to City C by train
+City D is connected to City E by road
+City K is connected to City D by air
+City J is connected to City M by train
+City O is connected to City N by train
+City X is connected to City F by road
+City N is connected to City S by train
+City G is connected to City V by road
+City X is connected to City R by road
+City G is connected to City S by road
+City C is connected to City F by train
+City L is connected to City J by road
+City X is connected to City D by train
+City I is connected to City D by road
+City Y is connected to City H by road
+City V is connected to City V by road
+City O is connected to City P by road
+City I is connected to City B by road
+City E is connected to City P by road
+City P is connected to City B by air
+City B is connected to City P by train
+City Q is connected to City L by road
+City L is connected to City Q by road
+City F is connected to City W by road
+City Y is connected to City R by road
+City B is connected to City Y by train
+City R is connected to City Q by road
+City L is connected to City R by train
+City Y is connected to City E by road
+City B is connected to City A by train

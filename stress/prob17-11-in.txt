@@ -1,0 +1,36 @@
+19
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+City S is connected to City N by road
+City N is connected to City G by air
+City L is connected to City M by road
+City F is connected to City L by road
+City K is connected to City K by air
+City L is connected to City A by road
+City H is connected to City H by train
+City M is connected to City H by air
+City R is connected to City D by train
+City F is connected to City O by road
+City E is connected to City I by air
+City K is connected to City H by road
+City N is connected to City O by air
+City I is connected to City J by train
+City L is connected to City M by road
+City H is connected to City I by air

@@ -1,0 +1,30 @@
+4
+A
+B
+C
+D
+City D is connected to City A by road
+City A is connected to City B by train
+City C is connected to City B by train
+City D is connected to City A by road
+City D is connected to City A by road
+City B is connected to City A by road
+City A is connected to City B by road
+City A is connected to City D by train
+City D is connected to City A by air
+City B is connected to City A by train
+City B is connected to City D by train
+City D is connected to City C by train
+City D is connected to City D by air
+City C is connected to City B by train
+City C is connected to City D by road
+City B is connected to City B by road
+City A is connected to City A by road
+City D is connected to City A by air
+City A is connected to City B by train
+City D is connected to City A by train
+City B is connected to City B by road
+City C is connected to City C by train
+City D is connected to City C by train
+City B is connected to City C by train
+City B is connected to City B by train

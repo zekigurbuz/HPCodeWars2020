@@ -1,0 +1,13 @@
+8
+A
+B
+C
+D
+E
+F
+G
+H
+City D is connected to City F by air
+City E is connected to City A by road
+City G is connected to City G by road
+City G is connected to City D by train

@@ -1,0 +1,43 @@
+25
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+City A is connected to City D by train
+City T is connected to City W by road
+City P is connected to City N by train
+City J is connected to City U by train
+City K is connected to City B by road
+City M is connected to City I by air
+City A is connected to City F by air
+City B is connected to City I by air
+City L is connected to City P by air
+City I is connected to City Y by air
+City J is connected to City F by air
+City N is connected to City H by road
+City L is connected to City O by air
+City N is connected to City D by air
+City P is connected to City S by air
+City N is connected to City T by train
+City G is connected to City S by road

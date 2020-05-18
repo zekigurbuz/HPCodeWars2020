@@ -1,0 +1,5 @@
+3
+A
+B
+C
+City B is connected to City A by train

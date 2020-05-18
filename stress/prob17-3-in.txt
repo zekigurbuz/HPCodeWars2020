@@ -1,0 +1,47 @@
+12
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+City K is connected to City E by train
+City A is connected to City E by road
+City G is connected to City A by train
+City F is connected to City A by train
+City G is connected to City A by road
+City H is connected to City F by air
+City H is connected to City G by road
+City L is connected to City I by air
+City C is connected to City J by train
+City L is connected to City C by air
+City D is connected to City L by road
+City D is connected to City H by road
+City A is connected to City I by air
+City B is connected to City A by air
+City H is connected to City A by air
+City A is connected to City I by train
+City C is connected to City D by air
+City J is connected to City F by road
+City G is connected to City B by train
+City D is connected to City E by road
+City L is connected to City B by air
+City H is connected to City A by road
+City B is connected to City J by road
+City F is connected to City E by air
+City C is connected to City K by road
+City F is connected to City G by train
+City F is connected to City G by air
+City J is connected to City K by road
+City B is connected to City B by air
+City G is connected to City G by air
+City F is connected to City I by train
+City A is connected to City J by air
+City C is connected to City D by air
+City B is connected to City C by train
