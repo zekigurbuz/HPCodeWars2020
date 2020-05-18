@@ -103,6 +103,8 @@ def stress_test_solution(users, sol, fin):
 		out = []
 		errors = []
 		for user in users:
+			if not os.path.isfile(user+"/"+sol):
+				continue
 			shutil.copy(user+"/"+sol, '.workspace/')
 			try:
 				subprocess.check_call(["javac", '.workspace/'+sol], stderr=open(os.devnull, 'w'))
