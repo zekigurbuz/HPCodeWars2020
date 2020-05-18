@@ -1,0 +1,600 @@
+1 Meat-Lovers
+2 Red Peppers
+8 Fishaster
+1 Olives
+4 Hawaiian
+3 Sausage
+4 Cheese
+2 Onion
+2 Onion
+3 Sardines
+4 Onion
+2 Cheese
+9 Sausage
+1 Olives
+8 Hawaiian
+4 Sausage
+6 Cheese
+1 Combo
+1 Cheese
+1 Cheese
+5 Sausage
+1 Meat-Lovers
+1 Sausage
+10 Pineapple
+8 Combo
+4 Sardines
+9 Meat-Lovers
+2 Olives
+10 Fishaster
+7 Pepperoni
+10 Pepperoni
+9 Pepperoni
+1 Hawaiian
+6 Ham
+7 Combo
+2 Pineapple
+3 Pineapple
+1 Cheese
+1 Combo
+8 Olives
+8 Onion
+3 Olives
+1 Pineapple
+6 Fishaster
+7 Hawaiian
+10 Pepperoni
+10 Sausage
+3 Onion
+6 Meat-Lovers
+5 Red Peppers
+3 Sausage
+2 Onion
+6 Fishaster
+4 Meat-Lovers
+6 Pineapple
+4 Sardines
+8 Combo
+3 Olives
+9 Hawaiian
+3 Sausage
+6 Pepperoni
+3 Pepperoni
+10 Olives
+7 Sausage
+7 Hawaiian
+6 Pepperoni
+2 Cheese
+10 Onion
+2 Pepperoni
+9 Combo
+5 Hawaiian
+5 Onion
+6 Hawaiian
+10 Pepperoni
+6 Sardines
+1 Olives
+8 Pepperoni
+8 Meat-Lovers
+2 Combo
+9 Combo
+6 Olives
+3 Onion
+8 Fishaster
+1 Olives
+5 Combo
+2 Meat-Lovers
+3 Hawaiian
+8 Onion
+2 Pineapple
+5 Fishaster
+4 Hawaiian
+5 Combo
+6 Pineapple
+9 Onion
+6 Sausage
+9 Pepperoni
+5 Pineapple
+1 Fishaster
+5 Fishaster
+1 Meat-Lovers
+1 1/2 Ham & 1/2 Ham
+9 1/2 Pineapple & 1/2 Ham
+5 1/2 Pineapple & 1/2 Pineapple
+3 1/2 Pineapple & 1/2 Red Peppers
+3 1/2 Sardines & 1/2 Fishaster
+4 1/2 Sardines & 1/2 Cheese
+7 1/2 Olives & 1/2 Red Peppers
+1 1/2 Hawaiian & 1/2 Pepperoni
+5 1/2 Pineapple & 1/2 Meat-Lovers
+8 1/2 Hawaiian & 1/2 Red Peppers
+3 1/2 Fishaster & 1/2 Ham
+3 1/2 Combo & 1/2 Sausage
+6 1/2 Sausage & 1/2 Olives
+1 1/2 Cheese & 1/2 Sardines
+10 1/2 Olives & 1/2 Pepperoni
+2 1/2 Hawaiian & 1/2 Combo
+8 1/2 Fishaster & 1/2 Sardines
+1 1/2 Olives & 1/2 Onion
+1 1/2 Sausage & 1/2 Olives
+8 1/2 Pineapple & 1/2 Hawaiian
+4 1/2 Fishaster & 1/2 Pineapple
+4 1/2 Olives & 1/2 Combo
+2 1/2 Pineapple & 1/2 Ham
+4 1/2 Sardines & 1/2 Onion
+1 1/2 Meat-Lovers & 1/2 Combo
+4 1/2 Cheese & 1/2 Sausage
+2 1/2 Hawaiian & 1/2 Fishaster
+7 1/2 Fishaster & 1/2 Pepperoni
+6 1/2 Cheese & 1/2 Combo
+8 1/2 Ham & 1/2 Meat-Lovers
+3 1/2 Onion & 1/2 Olives
+9 1/2 Olives & 1/2 Sausage
+5 1/2 Pineapple & 1/2 Sausage
+1 1/2 Meat-Lovers & 1/2 Red Peppers
+7 1/2 Red Peppers & 1/2 Cheese
+6 1/2 Pineapple & 1/2 Sardines
+10 1/2 Combo & 1/2 Cheese
+8 1/2 Sardines & 1/2 Meat-Lovers
+7 1/2 Pineapple & 1/2 Sausage
+2 1/2 Ham & 1/2 Sausage
+4 1/2 Meat-Lovers & 1/2 Red Peppers
+6 1/2 Sardines & 1/2 Hawaiian
+9 1/2 Red Peppers & 1/2 Cheese
+10 1/2 Hawaiian & 1/2 Pepperoni
+4 1/2 Meat-Lovers & 1/2 Pepperoni
+10 1/2 Red Peppers & 1/2 Fishaster
+4 1/2 Onion & 1/2 Sausage
+8 1/2 Sardines & 1/2 Pineapple
+8 1/2 Fishaster & 1/2 Red Peppers
+7 1/2 Combo & 1/2 Cheese
+10 1/2 Meat-Lovers & 1/2 Pepperoni
+4 1/2 Red Peppers & 1/2 Red Peppers
+8 1/2 Combo & 1/2 Ham
+9 1/2 Fishaster & 1/2 Onion
+1 1/2 Combo & 1/2 Combo
+2 1/2 Sardines & 1/2 Pineapple
+4 1/2 Pepperoni & 1/2 Pineapple
+6 1/2 Hawaiian & 1/2 Meat-Lovers
+1 1/2 Sardines & 1/2 Pepperoni
+10 1/2 Pineapple & 1/2 Meat-Lovers
+5 1/2 Combo & 1/2 Fishaster
+6 1/2 Pepperoni & 1/2 Meat-Lovers
+10 1/2 Ham & 1/2 Combo
+9 1/2 Onion & 1/2 Pepperoni
+8 1/2 Ham & 1/2 Combo
+1 1/2 Onion & 1/2 Sardines
+7 1/2 Pineapple & 1/2 Fishaster
+9 1/2 Olives & 1/2 Olives
+3 1/2 Meat-Lovers & 1/2 Ham
+5 1/2 Combo & 1/2 Onion
+5 1/2 Cheese & 1/2 Pepperoni
+3 1/2 Meat-Lovers & 1/2 Sardines
+8 1/2 Hawaiian & 1/2 Sardines
+3 1/2 Red Peppers & 1/2 Fishaster
+4 1/2 Pepperoni & 1/2 Fishaster
+2 1/2 Meat-Lovers & 1/2 Hawaiian
+6 1/2 Hawaiian & 1/2 Pineapple
+10 1/2 Meat-Lovers & 1/2 Cheese
+4 1/2 Combo & 1/2 Red Peppers
+3 1/2 Sausage & 1/2 Onion
+10 1/2 Fishaster & 1/2 Sardines
+5 1/2 Cheese & 1/2 Pepperoni
+8 1/2 Hawaiian & 1/2 Cheese
+3 1/2 Cheese & 1/2 Meat-Lovers
+3 1/2 Ham & 1/2 Ham
+6 1/2 Onion & 1/2 Olives
+4 1/2 Combo & 1/2 Hawaiian
+2 1/2 Sardines & 1/2 Pepperoni
+1 1/2 Red Peppers & 1/2 Olives
+3 1/2 Pineapple & 1/2 Sardines
+9 1/2 Pepperoni & 1/2 Red Peppers
+3 1/2 Hawaiian & 1/2 Red Peppers
+9 1/2 Pepperoni & 1/2 Ham
+4 1/2 Meat-Lovers & 1/2 Cheese
+6 1/2 Onion & 1/2 Pineapple
+9 1/2 Olives & 1/2 Meat-Lovers
+3 1/2 Pineapple & 1/2 Fishaster
+7 1/2 Ham & 1/2 Red Peppers
+10 1/2 Pineapple & 1/2 Pineapple
+8 1/2 Hawaiian & 1/2 Onion
+6 1/2 Cheese & 1/4 Fishaster & 1/4 Red Peppers
+4 1/2 Hawaiian & 1/4 Pineapple & 1/4 Pineapple
+3 1/2 Fishaster & 1/4 Cheese & 1/4 Pepperoni
+2 1/2 Pepperoni & 1/4 Pepperoni & 1/4 Olives
+6 1/2 Ham & 1/4 Pepperoni & 1/4 Sausage
+3 1/2 Ham & 1/4 Red Peppers & 1/4 Ham
+4 1/2 Olives & 1/4 Red Peppers & 1/4 Fishaster
+8 1/2 Pepperoni & 1/4 Hawaiian & 1/4 Red Peppers
+7 1/2 Onion & 1/4 Hawaiian & 1/4 Cheese
+8 1/2 Cheese & 1/4 Sausage & 1/4 Hawaiian
+4 1/2 Olives & 1/4 Sausage & 1/4 Ham
+7 1/2 Onion & 1/4 Meat-Lovers & 1/4 Red Peppers
+7 1/2 Meat-Lovers & 1/4 Meat-Lovers & 1/4 Pineapple
+4 1/2 Pepperoni & 1/4 Fishaster & 1/4 Combo
+6 1/2 Onion & 1/4 Cheese & 1/4 Pepperoni
+8 1/2 Hawaiian & 1/4 Combo & 1/4 Pineapple
+6 1/2 Fishaster & 1/4 Hawaiian & 1/4 Pepperoni
+2 1/2 Pepperoni & 1/4 Meat-Lovers & 1/4 Pepperoni
+3 1/2 Fishaster & 1/4 Red Peppers & 1/4 Red Peppers
+9 1/2 Pepperoni & 1/4 Hawaiian & 1/4 Ham
+3 1/2 Ham & 1/4 Sausage & 1/4 Sausage
+5 1/2 Red Peppers & 1/4 Cheese & 1/4 Red Peppers
+5 1/2 Hawaiian & 1/4 Fishaster & 1/4 Sausage
+1 1/2 Meat-Lovers & 1/4 Red Peppers & 1/4 Onion
+3 1/2 Pineapple & 1/4 Hawaiian & 1/4 Hawaiian
+3 1/2 Olives & 1/4 Onion & 1/4 Hawaiian
+10 1/2 Onion & 1/4 Sausage & 1/4 Onion
+6 1/2 Pepperoni & 1/4 Fishaster & 1/4 Sausage
+7 1/2 Combo & 1/4 Hawaiian & 1/4 Ham
+3 1/2 Fishaster & 1/4 Combo & 1/4 Red Peppers
+4 1/2 Sardines & 1/4 Sausage & 1/4 Red Peppers
+2 1/2 Olives & 1/4 Onion & 1/4 Hawaiian
+3 1/2 Sausage & 1/4 Ham & 1/4 Pineapple
+10 1/2 Sausage & 1/4 Onion & 1/4 Fishaster
+4 1/2 Sardines & 1/4 Pepperoni & 1/4 Fishaster
+3 1/2 Hawaiian & 1/4 Pineapple & 1/4 Ham
+6 1/2 Pepperoni & 1/4 Sardines & 1/4 Fishaster
+6 1/2 Pineapple & 1/4 Sardines & 1/4 Red Peppers
+9 1/2 Sausage & 1/4 Olives & 1/4 Pineapple
+9 1/2 Pepperoni & 1/4 Onion & 1/4 Sardines
+7 1/2 Meat-Lovers & 1/4 Fishaster & 1/4 Olives
+10 1/2 Sausage & 1/4 Onion & 1/4 Combo
+7 1/2 Pineapple & 1/4 Sardines & 1/4 Hawaiian
+5 1/2 Pineapple & 1/4 Ham & 1/4 Red Peppers
+5 1/2 Fishaster & 1/4 Sausage & 1/4 Cheese
+10 1/2 Sardines & 1/4 Hawaiian & 1/4 Pineapple
+3 1/2 Olives & 1/4 Combo & 1/4 Hawaiian
+1 1/2 Olives & 1/4 Red Peppers & 1/4 Combo
+6 1/2 Hawaiian & 1/4 Cheese & 1/4 Red Peppers
+5 1/2 Onion & 1/4 Combo & 1/4 Olives
+1 1/2 Onion & 1/4 Sardines & 1/4 Sausage
+3 1/2 Ham & 1/4 Olives & 1/4 Sausage
+3 1/2 Pepperoni & 1/4 Olives & 1/4 Meat-Lovers
+1 1/2 Sardines & 1/4 Combo & 1/4 Pepperoni
+5 1/2 Fishaster & 1/4 Red Peppers & 1/4 Ham
+6 1/2 Meat-Lovers & 1/4 Combo & 1/4 Sausage
+8 1/2 Fishaster & 1/4 Red Peppers & 1/4 Fishaster
+6 1/2 Cheese & 1/4 Cheese & 1/4 Pepperoni
+8 1/2 Combo & 1/4 Fishaster & 1/4 Ham
+5 1/2 Pineapple & 1/4 Combo & 1/4 Onion
+7 1/2 Sardines & 1/4 Combo & 1/4 Pepperoni
+5 1/2 Sardines & 1/4 Fishaster & 1/4 Red Peppers
+10 1/2 Olives & 1/4 Pineapple & 1/4 Sausage
+6 1/2 Ham & 1/4 Hawaiian & 1/4 Sardines
+4 1/2 Ham & 1/4 Sausage & 1/4 Pineapple
+6 1/2 Red Peppers & 1/4 Hawaiian & 1/4 Meat-Lovers
+2 1/2 Sausage & 1/4 Pepperoni & 1/4 Pepperoni
+7 1/2 Sausage & 1/4 Hawaiian & 1/4 Red Peppers
+1 1/2 Fishaster & 1/4 Onion & 1/4 Hawaiian
+1 1/2 Red Peppers & 1/4 Pineapple & 1/4 Meat-Lovers
+5 1/2 Fishaster & 1/4 Ham & 1/4 Cheese
+9 1/2 Sausage & 1/4 Olives & 1/4 Ham
+6 1/2 Cheese & 1/4 Sausage & 1/4 Pepperoni
+7 1/2 Fishaster & 1/4 Pepperoni & 1/4 Hawaiian
+10 1/2 Pineapple & 1/4 Cheese & 1/4 Onion
+10 1/2 Cheese & 1/4 Olives & 1/4 Sausage
+7 1/2 Pepperoni & 1/4 Pineapple & 1/4 Ham
+5 1/2 Ham & 1/4 Fishaster & 1/4 Red Peppers
+3 1/2 Cheese & 1/4 Cheese & 1/4 Ham
+5 1/2 Olives & 1/4 Hawaiian & 1/4 Pepperoni
+3 1/2 Red Peppers & 1/4 Ham & 1/4 Fishaster
+4 1/2 Onion & 1/4 Sardines & 1/4 Hawaiian
+3 1/2 Sausage & 1/4 Cheese & 1/4 Sausage
+8 1/2 Red Peppers & 1/4 Pineapple & 1/4 Red Peppers
+9 1/2 Red Peppers & 1/4 Onion & 1/4 Fishaster
+9 1/2 Cheese & 1/4 Pineapple & 1/4 Onion
+8 1/2 Sardines & 1/4 Meat-Lovers & 1/4 Olives
+6 1/2 Pepperoni & 1/4 Hawaiian & 1/4 Pineapple
+1 1/2 Sausage & 1/4 Hawaiian & 1/4 Combo
+8 1/2 Cheese & 1/4 Combo & 1/4 Olives
+5 1/2 Combo & 1/4 Pepperoni & 1/4 Red Peppers
+9 1/2 Combo & 1/4 Fishaster & 1/4 Pineapple
+10 1/2 Combo & 1/4 Meat-Lovers & 1/4 Sardines
+9 1/2 Olives & 1/4 Hawaiian & 1/4 Sausage
+1 1/2 Red Peppers & 1/4 Combo & 1/4 Hawaiian
+8 1/2 Pineapple & 1/4 Ham & 1/4 Sardines
+4 1/2 Sausage & 1/4 Hawaiian & 1/4 Meat-Lovers
+1 1/2 Combo & 1/4 Cheese & 1/4 Red Peppers
+6 1/2 Ham & 1/4 Combo & 1/4 Combo
+7 1/2 Ham & 1/4 Fishaster & 1/4 Hawaiian
+8 1/4 Meat-Lovers & 1/2 Cheese & 1/4 Cheese
+6 1/4 Sardines & 1/2 Pepperoni & 1/4 Pineapple
+9 1/4 Sausage & 1/2 Pineapple & 1/4 Meat-Lovers
+10 1/4 Olives & 1/2 Red Peppers & 1/4 Pepperoni
+3 1/4 Fishaster & 1/2 Sardines & 1/4 Meat-Lovers
+9 1/4 Combo & 1/2 Onion & 1/4 Sausage
+5 1/4 Meat-Lovers & 1/2 Meat-Lovers & 1/4 Combo
+2 1/4 Hawaiian & 1/2 Cheese & 1/4 Pepperoni
+6 1/4 Meat-Lovers & 1/2 Red Peppers & 1/4 Sausage
+5 1/4 Meat-Lovers & 1/2 Fishaster & 1/4 Pepperoni
+5 1/4 Cheese & 1/2 Onion & 1/4 Combo
+3 1/4 Cheese & 1/2 Ham & 1/4 Cheese
+5 1/4 Sausage & 1/2 Olives & 1/4 Olives
+1 1/4 Meat-Lovers & 1/2 Cheese & 1/4 Pineapple
+9 1/4 Sardines & 1/2 Red Peppers & 1/4 Pepperoni
+10 1/4 Pineapple & 1/2 Ham & 1/4 Ham
+8 1/4 Olives & 1/2 Olives & 1/4 Cheese
+8 1/4 Fishaster & 1/2 Hawaiian & 1/4 Pineapple
+3 1/4 Sardines & 1/2 Sardines & 1/4 Sausage
+7 1/4 Meat-Lovers & 1/2 Fishaster & 1/4 Fishaster
+3 1/4 Onion & 1/2 Pepperoni & 1/4 Combo
+10 1/4 Sausage & 1/2 Ham & 1/4 Ham
+1 1/4 Hawaiian & 1/2 Ham & 1/4 Hawaiian
+1 1/4 Hawaiian & 1/2 Pepperoni & 1/4 Olives
+2 1/4 Red Peppers & 1/2 Sausage & 1/4 Hawaiian
+6 1/4 Pepperoni & 1/2 Olives & 1/4 Hawaiian
+5 1/4 Sausage & 1/2 Meat-Lovers & 1/4 Hawaiian
+7 1/4 Ham & 1/2 Meat-Lovers & 1/4 Ham
+5 1/4 Cheese & 1/2 Sardines & 1/4 Fishaster
+1 1/4 Sardines & 1/2 Pineapple & 1/4 Red Peppers
+8 1/4 Pepperoni & 1/2 Hawaiian & 1/4 Fishaster
+3 1/4 Pepperoni & 1/2 Ham & 1/4 Meat-Lovers
+9 1/4 Hawaiian & 1/2 Sardines & 1/4 Ham
+4 1/4 Olives & 1/2 Sausage & 1/4 Hawaiian
+3 1/4 Sardines & 1/2 Onion & 1/4 Olives
+7 1/4 Cheese & 1/2 Pepperoni & 1/4 Hawaiian
+2 1/4 Olives & 1/2 Red Peppers & 1/4 Ham
+1 1/4 Hawaiian & 1/2 Sardines & 1/4 Meat-Lovers
+8 1/4 Red Peppers & 1/2 Pepperoni & 1/4 Fishaster
+7 1/4 Red Peppers & 1/2 Cheese & 1/4 Onion
+9 1/4 Sausage & 1/2 Onion & 1/4 Olives
+7 1/4 Red Peppers & 1/2 Combo & 1/4 Sausage
+10 1/4 Combo & 1/2 Pineapple & 1/4 Onion
+1 1/4 Onion & 1/2 Hawaiian & 1/4 Olives
+4 1/4 Cheese & 1/2 Ham & 1/4 Meat-Lovers
+9 1/4 Sausage & 1/2 Olives & 1/4 Pepperoni
+10 1/4 Sausage & 1/2 Cheese & 1/4 Hawaiian
+6 1/4 Pineapple & 1/2 Onion & 1/4 Sausage
+1 1/4 Red Peppers & 1/2 Red Peppers & 1/4 Onion
+7 1/4 Olives & 1/2 Pepperoni & 1/4 Cheese
+2 1/4 Meat-Lovers & 1/2 Ham & 1/4 Onion
+10 1/4 Fishaster & 1/2 Olives & 1/4 Hawaiian
+2 1/4 Olives & 1/2 Ham & 1/4 Combo
+2 1/4 Ham & 1/2 Cheese & 1/4 Sardines
+6 1/4 Sausage & 1/2 Sausage & 1/4 Onion
+2 1/4 Pepperoni & 1/2 Ham & 1/4 Ham
+5 1/4 Cheese & 1/2 Combo & 1/4 Meat-Lovers
+8 1/4 Pepperoni & 1/2 Hawaiian & 1/4 Red Peppers
+8 1/4 Sardines & 1/2 Meat-Lovers & 1/4 Sausage
+4 1/4 Combo & 1/2 Hawaiian & 1/4 Fishaster
+2 1/4 Meat-Lovers & 1/2 Combo & 1/4 Ham
+2 1/4 Sausage & 1/2 Meat-Lovers & 1/4 Onion
+2 1/4 Meat-Lovers & 1/2 Combo & 1/4 Meat-Lovers
+7 1/4 Ham & 1/2 Fishaster & 1/4 Ham
+9 1/4 Fishaster & 1/2 Fishaster & 1/4 Pepperoni
+8 1/4 Olives & 1/2 Hawaiian & 1/4 Onion
+9 1/4 Sardines & 1/2 Onion & 1/4 Pepperoni
+3 1/4 Ham & 1/2 Pineapple & 1/4 Red Peppers
+7 1/4 Meat-Lovers & 1/2 Red Peppers & 1/4 Meat-Lovers
+5 1/4 Onion & 1/2 Sausage & 1/4 Sardines
+3 1/4 Onion & 1/2 Ham & 1/4 Fishaster
+10 1/4 Sausage & 1/2 Meat-Lovers & 1/4 Sausage
+10 1/4 Onion & 1/2 Red Peppers & 1/4 Ham
+1 1/4 Hawaiian & 1/2 Olives & 1/4 Fishaster
+2 1/4 Sausage & 1/2 Hawaiian & 1/4 Combo
+1 1/4 Combo & 1/2 Olives & 1/4 Cheese
+8 1/4 Pepperoni & 1/2 Pepperoni & 1/4 Combo
+2 1/4 Cheese & 1/2 Combo & 1/4 Ham
+9 1/4 Olives & 1/2 Sardines & 1/4 Red Peppers
+7 1/4 Combo & 1/2 Ham & 1/4 Ham
+5 1/4 Meat-Lovers & 1/2 Ham & 1/4 Ham
+4 1/4 Sausage & 1/2 Ham & 1/4 Meat-Lovers
+3 1/4 Pineapple & 1/2 Red Peppers & 1/4 Olives
+6 1/4 Pepperoni & 1/2 Sausage & 1/4 Sausage
+6 1/4 Sardines & 1/2 Fishaster & 1/4 Fishaster
+6 1/4 Combo & 1/2 Cheese & 1/4 Sardines
+7 1/4 Ham & 1/2 Fishaster & 1/4 Red Peppers
+1 1/4 Combo & 1/2 Olives & 1/4 Cheese
+8 1/4 Combo & 1/2 Hawaiian & 1/4 Pepperoni
+8 1/4 Hawaiian & 1/2 Pepperoni & 1/4 Ham
+7 1/4 Sausage & 1/2 Hawaiian & 1/4 Sausage
+3 1/4 Ham & 1/2 Pineapple & 1/4 Cheese
+1 1/4 Sausage & 1/2 Fishaster & 1/4 Pepperoni
+3 1/4 Meat-Lovers & 1/2 Pepperoni & 1/4 Onion
+1 1/4 Cheese & 1/2 Sardines & 1/4 Meat-Lovers
+4 1/4 Pineapple & 1/2 Olives & 1/4 Cheese
+3 1/4 Pineapple & 1/2 Onion & 1/4 Fishaster
+10 1/4 Fishaster & 1/2 Pepperoni & 1/4 Hawaiian
+7 1/4 Olives & 1/2 Hawaiian & 1/4 Pineapple
+10 1/4 Meat-Lovers & 1/2 Cheese & 1/4 Olives
+7 1/4 Sardines & 1/4 Pepperoni & 1/2 Cheese
+2 1/4 Fishaster & 1/4 Red Peppers & 1/2 Hawaiian
+7 1/4 Meat-Lovers & 1/4 Red Peppers & 1/2 Pepperoni
+1 1/4 Fishaster & 1/4 Ham & 1/2 Sardines
+1 1/4 Red Peppers & 1/4 Ham & 1/2 Onion
+4 1/4 Sausage & 1/4 Sardines & 1/2 Ham
+10 1/4 Fishaster & 1/4 Cheese & 1/2 Red Peppers
+4 1/4 Meat-Lovers & 1/4 Sausage & 1/2 Meat-Lovers
+10 1/4 Sausage & 1/4 Combo & 1/2 Pineapple
+7 1/4 Onion & 1/4 Onion & 1/2 Sausage
+9 1/4 Cheese & 1/4 Sausage & 1/2 Sardines
+1 1/4 Fishaster & 1/4 Hawaiian & 1/2 Onion
+4 1/4 Pepperoni & 1/4 Sardines & 1/2 Sausage
+3 1/4 Pineapple & 1/4 Pineapple & 1/2 Combo
+6 1/4 Combo & 1/4 Pineapple & 1/2 Olives
+10 1/4 Meat-Lovers & 1/4 Onion & 1/2 Fishaster
+6 1/4 Sardines & 1/4 Sardines & 1/2 Sardines
+3 1/4 Combo & 1/4 Combo & 1/2 Fishaster
+4 1/4 Olives & 1/4 Meat-Lovers & 1/2 Sausage
+7 1/4 Red Peppers & 1/4 Cheese & 1/2 Red Peppers
+9 1/4 Cheese & 1/4 Sausage & 1/2 Sardines
+6 1/4 Ham & 1/4 Pepperoni & 1/2 Hawaiian
+4 1/4 Hawaiian & 1/4 Red Peppers & 1/2 Sausage
+4 1/4 Cheese & 1/4 Fishaster & 1/2 Red Peppers
+8 1/4 Olives & 1/4 Red Peppers & 1/2 Sardines
+10 1/4 Pepperoni & 1/4 Sausage & 1/2 Pineapple
+1 1/4 Hawaiian & 1/4 Cheese & 1/2 Olives
+2 1/4 Ham & 1/4 Pepperoni & 1/2 Cheese
+2 1/4 Sardines & 1/4 Olives & 1/2 Cheese
+8 1/4 Hawaiian & 1/4 Hawaiian & 1/2 Sausage
+1 1/4 Pineapple & 1/4 Meat-Lovers & 1/2 Hawaiian
+5 1/4 Cheese & 1/4 Sausage & 1/2 Cheese
+2 1/4 Pepperoni & 1/4 Olives & 1/2 Onion
+7 1/4 Olives & 1/4 Ham & 1/2 Red Peppers
+9 1/4 Fishaster & 1/4 Hawaiian & 1/2 Sausage
+8 1/4 Olives & 1/4 Pineapple & 1/2 Onion
+10 1/4 Fishaster & 1/4 Ham & 1/2 Sausage
+6 1/4 Sardines & 1/4 Fishaster & 1/2 Olives
+5 1/4 Meat-Lovers & 1/4 Fishaster & 1/2 Combo
+9 1/4 Ham & 1/4 Combo & 1/2 Pepperoni
+9 1/4 Fishaster & 1/4 Pepperoni & 1/2 Meat-Lovers
+9 1/4 Sardines & 1/4 Onion & 1/2 Ham
+3 1/4 Hawaiian & 1/4 Pepperoni & 1/2 Meat-Lovers
+6 1/4 Combo & 1/4 Cheese & 1/2 Cheese
+3 1/4 Fishaster & 1/4 Red Peppers & 1/2 Combo
+8 1/4 Sausage & 1/4 Sardines & 1/2 Fishaster
+5 1/4 Hawaiian & 1/4 Meat-Lovers & 1/2 Olives
+2 1/4 Cheese & 1/4 Hawaiian & 1/2 Red Peppers
+2 1/4 Fishaster & 1/4 Fishaster & 1/2 Pepperoni
+3 1/4 Sausage & 1/4 Sausage & 1/2 Onion
+10 1/4 Olives & 1/4 Combo & 1/2 Olives
+1 1/4 Fishaster & 1/4 Red Peppers & 1/2 Pineapple
+6 1/4 Hawaiian & 1/4 Onion & 1/2 Cheese
+5 1/4 Cheese & 1/4 Cheese & 1/2 Fishaster
+9 1/4 Hawaiian & 1/4 Onion & 1/2 Combo
+2 1/4 Combo & 1/4 Onion & 1/2 Olives
+10 1/4 Olives & 1/4 Pepperoni & 1/2 Hawaiian
+7 1/4 Ham & 1/4 Pepperoni & 1/2 Combo
+5 1/4 Red Peppers & 1/4 Combo & 1/2 Onion
+10 1/4 Red Peppers & 1/4 Pineapple & 1/2 Sausage
+4 1/4 Hawaiian & 1/4 Combo & 1/2 Olives
+6 1/4 Combo & 1/4 Ham & 1/2 Cheese
+10 1/4 Pineapple & 1/4 Combo & 1/2 Red Peppers
+1 1/4 Pineapple & 1/4 Hawaiian & 1/2 Fishaster
+4 1/4 Cheese & 1/4 Combo & 1/2 Onion
+9 1/4 Pepperoni & 1/4 Meat-Lovers & 1/2 Onion
+7 1/4 Pineapple & 1/4 Sausage & 1/2 Pineapple
+2 1/4 Pepperoni & 1/4 Olives & 1/2 Fishaster
+7 1/4 Hawaiian & 1/4 Pepperoni & 1/2 Meat-Lovers
+2 1/4 Cheese & 1/4 Hawaiian & 1/2 Pineapple
+1 1/4 Sausage & 1/4 Pepperoni & 1/2 Sausage
+2 1/4 Sardines & 1/4 Pineapple & 1/2 Hawaiian
+9 1/4 Combo & 1/4 Meat-Lovers & 1/2 Combo
+9 1/4 Hawaiian & 1/4 Red Peppers & 1/2 Onion
+4 1/4 Hawaiian & 1/4 Ham & 1/2 Cheese
+1 1/4 Sausage & 1/4 Ham & 1/2 Hawaiian
+3 1/4 Fishaster & 1/4 Onion & 1/2 Sausage
+9 1/4 Combo & 1/4 Pepperoni & 1/2 Hawaiian
+3 1/4 Pepperoni & 1/4 Hawaiian & 1/2 Red Peppers
+8 1/4 Onion & 1/4 Hawaiian & 1/2 Cheese
+6 1/4 Olives & 1/4 Red Peppers & 1/2 Fishaster
+2 1/4 Combo & 1/4 Olives & 1/2 Red Peppers
+1 1/4 Pineapple & 1/4 Sausage & 1/2 Onion
+1 1/4 Cheese & 1/4 Fishaster & 1/2 Onion
+1 1/4 Meat-Lovers & 1/4 Ham & 1/2 Olives
+5 1/4 Sausage & 1/4 Fishaster & 1/2 Hawaiian
+6 1/4 Fishaster & 1/4 Hawaiian & 1/2 Pepperoni
+6 1/4 Ham & 1/4 Hawaiian & 1/2 Hawaiian
+2 1/4 Pepperoni & 1/4 Ham & 1/2 Pepperoni
+1 1/4 Pepperoni & 1/4 Sardines & 1/2 Hawaiian
+9 1/4 Pineapple & 1/4 Onion & 1/2 Red Peppers
+6 1/4 Pepperoni & 1/4 Fishaster & 1/2 Hawaiian
+6 1/4 Ham & 1/4 Sausage & 1/2 Red Peppers
+2 1/4 Cheese & 1/4 Pepperoni & 1/2 Fishaster
+4 1/4 Olives & 1/4 Pineapple & 1/2 Sausage
+4 1/4 Ham & 1/4 Combo & 1/2 Meat-Lovers
+8 1/4 Hawaiian & 1/4 Sardines & 1/2 Hawaiian
+9 1/4 Olives & 1/4 Sardines & 1/2 Onion
+1 1/4 Onion & 1/4 Red Peppers & 1/2 Pepperoni
+8 1/4 Hawaiian & 1/4 Meat-Lovers & 1/2 Red Peppers
+4 1/4 Sardines & 1/4 Ham & 1/4 Onion & 1/4 Ham
+6 1/4 Olives & 1/4 Fishaster & 1/4 Cheese & 1/4 Olives
+2 1/4 Fishaster & 1/4 Combo & 1/4 Sardines & 1/4 Onion
+4 1/4 Onion & 1/4 Cheese & 1/4 Hawaiian & 1/4 Olives
+8 1/4 Hawaiian & 1/4 Pepperoni & 1/4 Combo & 1/4 Fishaster
+6 1/4 Fishaster & 1/4 Onion & 1/4 Cheese & 1/4 Combo
+5 1/4 Meat-Lovers & 1/4 Ham & 1/4 Olives & 1/4 Red Peppers
+3 1/4 Fishaster & 1/4 Onion & 1/4 Hawaiian & 1/4 Cheese
+2 1/4 Pineapple & 1/4 Pineapple & 1/4 Onion & 1/4 Cheese
+2 1/4 Sardines & 1/4 Ham & 1/4 Pineapple & 1/4 Olives
+10 1/4 Olives & 1/4 Sausage & 1/4 Red Peppers & 1/4 Pepperoni
+6 1/4 Meat-Lovers & 1/4 Pepperoni & 1/4 Fishaster & 1/4 Meat-Lovers
+1 1/4 Olives & 1/4 Onion & 1/4 Sardines & 1/4 Ham
+4 1/4 Pineapple & 1/4 Sardines & 1/4 Combo & 1/4 Sausage
+6 1/4 Sausage & 1/4 Pepperoni & 1/4 Sardines & 1/4 Pepperoni
+6 1/4 Fishaster & 1/4 Olives & 1/4 Olives & 1/4 Sardines
+3 1/4 Combo & 1/4 Hawaiian & 1/4 Sardines & 1/4 Meat-Lovers
+9 1/4 Pepperoni & 1/4 Meat-Lovers & 1/4 Red Peppers & 1/4 Hawaiian
+7 1/4 Sausage & 1/4 Sardines & 1/4 Cheese & 1/4 Sardines
+4 1/4 Cheese & 1/4 Olives & 1/4 Pineapple & 1/4 Meat-Lovers
+7 1/4 Red Peppers & 1/4 Combo & 1/4 Combo & 1/4 Olives
+8 1/4 Red Peppers & 1/4 Sausage & 1/4 Olives & 1/4 Hawaiian
+3 1/4 Cheese & 1/4 Meat-Lovers & 1/4 Pineapple & 1/4 Hawaiian
+2 1/4 Hawaiian & 1/4 Fishaster & 1/4 Pineapple & 1/4 Olives
+7 1/4 Meat-Lovers & 1/4 Pepperoni & 1/4 Onion & 1/4 Pineapple
+4 1/4 Sardines & 1/4 Meat-Lovers & 1/4 Fishaster & 1/4 Ham
+5 1/4 Cheese & 1/4 Onion & 1/4 Olives & 1/4 Red Peppers
+6 1/4 Red Peppers & 1/4 Combo & 1/4 Hawaiian & 1/4 Fishaster
+2 1/4 Hawaiian & 1/4 Hawaiian & 1/4 Olives & 1/4 Cheese
+10 1/4 Red Peppers & 1/4 Red Peppers & 1/4 Onion & 1/4 Fishaster
+6 1/4 Onion & 1/4 Pineapple & 1/4 Ham & 1/4 Olives
+4 1/4 Cheese & 1/4 Pepperoni & 1/4 Pineapple & 1/4 Olives
+3 1/4 Meat-Lovers & 1/4 Sardines & 1/4 Sausage & 1/4 Olives
+10 1/4 Pineapple & 1/4 Red Peppers & 1/4 Meat-Lovers & 1/4 Sardines
+2 1/4 Pineapple & 1/4 Red Peppers & 1/4 Hawaiian & 1/4 Hawaiian
+8 1/4 Pineapple & 1/4 Meat-Lovers & 1/4 Hawaiian & 1/4 Pepperoni
+6 1/4 Cheese & 1/4 Red Peppers & 1/4 Pineapple & 1/4 Fishaster
+5 1/4 Ham & 1/4 Ham & 1/4 Red Peppers & 1/4 Ham
+8 1/4 Sausage & 1/4 Sardines & 1/4 Sausage & 1/4 Olives
+6 1/4 Combo & 1/4 Pepperoni & 1/4 Pepperoni & 1/4 Pepperoni
+7 1/4 Red Peppers & 1/4 Pepperoni & 1/4 Cheese & 1/4 Cheese
+3 1/4 Sardines & 1/4 Cheese & 1/4 Combo & 1/4 Ham
+4 1/4 Ham & 1/4 Olives & 1/4 Sardines & 1/4 Sardines
+6 1/4 Combo & 1/4 Meat-Lovers & 1/4 Pineapple & 1/4 Cheese
+3 1/4 Cheese & 1/4 Pepperoni & 1/4 Hawaiian & 1/4 Combo
+8 1/4 Pineapple & 1/4 Red Peppers & 1/4 Sardines & 1/4 Pineapple
+2 1/4 Pepperoni & 1/4 Meat-Lovers & 1/4 Red Peppers & 1/4 Pepperoni
+9 1/4 Red Peppers & 1/4 Fishaster & 1/4 Onion & 1/4 Sardines
+1 1/4 Fishaster & 1/4 Pepperoni & 1/4 Red Peppers & 1/4 Pepperoni
+8 1/4 Combo & 1/4 Meat-Lovers & 1/4 Fishaster & 1/4 Olives
+6 1/4 Sardines & 1/4 Sardines & 1/4 Cheese & 1/4 Sausage
+10 1/4 Olives & 1/4 Olives & 1/4 Fishaster & 1/4 Red Peppers
+6 1/4 Ham & 1/4 Olives & 1/4 Sausage & 1/4 Fishaster
+3 1/4 Olives & 1/4 Red Peppers & 1/4 Fishaster & 1/4 Red Peppers
+6 1/4 Onion & 1/4 Sausage & 1/4 Sausage & 1/4 Olives
+1 1/4 Ham & 1/4 Fishaster & 1/4 Sardines & 1/4 Cheese
+9 1/4 Sausage & 1/4 Sardines & 1/4 Sardines & 1/4 Sausage
+10 1/4 Combo & 1/4 Onion & 1/4 Ham & 1/4 Red Peppers
+9 1/4 Onion & 1/4 Red Peppers & 1/4 Pineapple & 1/4 Pineapple
+10 1/4 Sausage & 1/4 Red Peppers & 1/4 Cheese & 1/4 Olives
+2 1/4 Onion & 1/4 Fishaster & 1/4 Pepperoni & 1/4 Sausage
+1 1/4 Sausage & 1/4 Pepperoni & 1/4 Sardines & 1/4 Olives
+2 1/4 Sardines & 1/4 Combo & 1/4 Pineapple & 1/4 Cheese
+4 1/4 Meat-Lovers & 1/4 Pepperoni & 1/4 Sausage & 1/4 Fishaster
+3 1/4 Sausage & 1/4 Sausage & 1/4 Cheese & 1/4 Sardines
+8 1/4 Ham & 1/4 Pepperoni & 1/4 Olives & 1/4 Sardines
+3 1/4 Cheese & 1/4 Onion & 1/4 Combo & 1/4 Meat-Lovers
+2 1/4 Olives & 1/4 Cheese & 1/4 Sausage & 1/4 Red Peppers
+7 1/4 Sausage & 1/4 Sausage & 1/4 Red Peppers & 1/4 Pineapple
+3 1/4 Onion & 1/4 Sardines & 1/4 Onion & 1/4 Meat-Lovers
+8 1/4 Sardines & 1/4 Meat-Lovers & 1/4 Olives & 1/4 Fishaster
+4 1/4 Ham & 1/4 Sausage & 1/4 Pepperoni & 1/4 Olives
+8 1/4 Olives & 1/4 Sardines & 1/4 Fishaster & 1/4 Pepperoni
+10 1/4 Fishaster & 1/4 Olives & 1/4 Pineapple & 1/4 Pineapple
+5 1/4 Fishaster & 1/4 Sardines & 1/4 Meat-Lovers & 1/4 Hawaiian
+8 1/4 Meat-Lovers & 1/4 Ham & 1/4 Onion & 1/4 Olives
+6 1/4 Sausage & 1/4 Meat-Lovers & 1/4 Hawaiian & 1/4 Combo
+6 1/4 Pineapple & 1/4 Ham & 1/4 Olives & 1/4 Hawaiian
+5 1/4 Hawaiian & 1/4 Onion & 1/4 Meat-Lovers & 1/4 Combo
+7 1/4 Hawaiian & 1/4 Sardines & 1/4 Fishaster & 1/4 Cheese
+8 1/4 Sausage & 1/4 Ham & 1/4 Pineapple & 1/4 Pineapple
+8 1/4 Meat-Lovers & 1/4 Pineapple & 1/4 Onion & 1/4 Hawaiian
+7 1/4 Fishaster & 1/4 Meat-Lovers & 1/4 Fishaster & 1/4 Cheese
+7 1/4 Pepperoni & 1/4 Combo & 1/4 Pineapple & 1/4 Cheese
+2 1/4 Cheese & 1/4 Sardines & 1/4 Pineapple & 1/4 Pineapple
+1 1/4 Sardines & 1/4 Hawaiian & 1/4 Fishaster & 1/4 Hawaiian
+4 1/4 Ham & 1/4 Ham & 1/4 Pineapple & 1/4 Ham
+5 1/4 Olives & 1/4 Combo & 1/4 Ham & 1/4 Pineapple
+9 1/4 Sausage & 1/4 Hawaiian & 1/4 Cheese & 1/4 Onion
+8 1/4 Onion & 1/4 Pineapple & 1/4 Meat-Lovers & 1/4 Sardines
+2 1/4 Ham & 1/4 Sausage & 1/4 Pepperoni & 1/4 Cheese
+5 1/4 Pepperoni & 1/4 Onion & 1/4 Onion & 1/4 Fishaster
+8 1/4 Ham & 1/4 Ham & 1/4 Cheese & 1/4 Ham
+8 1/4 Pepperoni & 1/4 Ham & 1/4 Onion & 1/4 Cheese
+8 1/4 Pineapple & 1/4 Cheese & 1/4 Hawaiian & 1/4 Meat-Lovers
+4 1/4 Pineapple & 1/4 Sardines & 1/4 Sardines & 1/4 Fishaster
+4 1/4 Hawaiian & 1/4 Cheese & 1/4 Cheese & 1/4 Cheese
+8 1/4 Pepperoni & 1/4 Hawaiian & 1/4 Olives & 1/4 Meat-Lovers
+4 1/4 Red Peppers & 1/4 Fishaster & 1/4 Pepperoni & 1/4 Pineapple
+10 1/4 Onion & 1/4 Onion & 1/4 Cheese & 1/4 Hawaiian
