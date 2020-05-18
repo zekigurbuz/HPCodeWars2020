@@ -13,7 +13,7 @@ public class prob19 {
 				b.add(Integer.toHexString(x.charAt(i) + 0));
 			}
 		}
-		System.out.println(out.trim());
+		System.out.println(out);
 		Collections.reverse(b);
 		String c = "";
 		int i = 0;

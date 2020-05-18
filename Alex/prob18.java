@@ -14,7 +14,7 @@ public class prob18 {
 			while (q >= 180) q = 360 - q;
 			while (q < 0) q += 360;
 			
-			System.out.printf("The angle between the Hour hand and the Minute hand is %.2f degrees.%n", q);
+			System.out.printf("The angle between the Hour hand and Minute hand is %.2f degrees.%n", q);
 		}
 		file.close();
 	}
