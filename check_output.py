@@ -37,6 +37,8 @@ def get_stress_data(prob_num):
 
 #diffs output
 def diff(first, second):
+	if len(first) > len(second):
+		return (False, first[len(second)], '', len(second))
 	for i in range(min(len(first),len(second))):
 		if first[i] != second[i]:
 			return (False,first[i],second[i],str(i+1))
@@ -47,7 +49,7 @@ def diff_many(outs):
 		return (True,[])
 	minlen = len(outs[0][1])
 	for s in outs:
-		minlen = min(minlen, len(s[0]))
+		minlen = min(minlen, len(s[1]))
 	for i in range(minlen):
 		cur = outs[0][1][i]
 		ok = True
@@ -58,6 +60,17 @@ def diff_many(outs):
 			for out in outs:
 				res += [(out[0],out[1][i])]
 			return (False, res)
+	ok = True
+	for s in outs:
+		ok = ok and len(s[1]) == minlen
+	if not ok:
+		res = []
+		for out in outs:
+			if len(out[1]) == minlen:
+				res += [(out[0],'')]
+			else:
+				res += [(out[0],out[1][minlen])]
+		return (False,res)
 	return (True, [])
 
 #tests sol across all data

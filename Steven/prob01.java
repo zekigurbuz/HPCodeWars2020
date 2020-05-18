@@ -7,6 +7,6 @@ public class prob01 {
 	}
 	public void run() throws Exception {
 		Scanner file = new Scanner(new File("input.txt"));
-		System.out.println("Welcome to CodeWars, " + file.next() + "!");
+		System.out.println("Welcome to CodeWars, " + file.nextLine() + "!");
 	}
 }
