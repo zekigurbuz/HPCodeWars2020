@@ -3,7 +3,7 @@ import java.io.*;
 
 public class prob22 {
 	public void run() throws Exception {
-		Scanner file = new Scanner(new File("input.txt"));
+		Scanner file = new Scanner(new File("prob22-1-in.txt"));
 		String[] e = new String[] {"E", "F", null, "G", null, "A", null, "B", "C", null, "D", null, "E"};
 		String[] a = new String[] {"A", null, "B", "C", null, "D", null, "E", "F", null, "G", null, "A"};
 		while (file.hasNext()) {
@@ -19,10 +19,10 @@ public class prob22 {
 						j = k;
 					}
 				}
-				if (i == 0 && j == 0) System.out.println(i + " E " + j + " A 12 E 12 A");
-				else if (i == 0) System.out.println(i + " E 12 E " + j + " A");
-				else if (j == 0) System.out.println(i + " E " + j + " A 12 A");
-				else System.out.println(i + " E " + j + " A");
+				if (i == 0 && j == 0) System.out.println(i + " E " + j + " A 12 E 12 A ");
+				else if (i == 0) System.out.println(i + " E 12 E " + j + " A ");
+				else if (j == 0) System.out.println(i + " E " + j + " A 12 A ");
+				else System.out.println(i + " E " + j + " A ");
 			}
 			else {
 				String[] u = x.split(" ");
