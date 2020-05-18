@@ -10,9 +10,9 @@ public class prob18 {
 			double h = hm[0], m = hm[1];
 			double hD = h * 30 + m * 0.5, mD = m * 6;
 			double bet = Math.abs(hD-mD);
-			while (bet >= 180) bet = 360 - bet;
+			while (bet > 180) bet = 360 - bet;
 			while (bet < 0) bet += 360;
-			while (bet >= 180) bet = 360 - bet;
+			while (bet > 180) bet = 360 - bet;
 			while (bet < 0) bet += 360;
 			System.out.printf("The angle between the Hour hand and Minute hand is %.2f degrees.%n", bet);
 		}
