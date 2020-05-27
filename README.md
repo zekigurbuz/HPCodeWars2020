@@ -4,5 +4,5 @@ A collection of the solutions to the Hewlett-Packard Code Wars 2020 Competition 
 - Steven Cheng
 - Alex Huang
 - Zeki Gurbuz
-## Total Score: TBD
-## Placement: TBD
+## Total Score: 237/237
+## Placement: 1st
